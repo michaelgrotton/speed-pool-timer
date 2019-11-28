@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/speed-pool-timer/static/js/main.73607af5.chunk.js",
+    "main.js.map": "/speed-pool-timer/static/js/main.73607af5.chunk.js.map",
+    "runtime-main.js": "/speed-pool-timer/static/js/runtime-main.f75e6216.js",
+    "runtime-main.js.map": "/speed-pool-timer/static/js/runtime-main.f75e6216.js.map",
+    "static/css/2.dd71f948.chunk.css": "/speed-pool-timer/static/css/2.dd71f948.chunk.css",
+    "static/js/2.76177e1a.chunk.js": "/speed-pool-timer/static/js/2.76177e1a.chunk.js",
+    "static/js/2.76177e1a.chunk.js.map": "/speed-pool-timer/static/js/2.76177e1a.chunk.js.map",
+    "index.html": "/speed-pool-timer/index.html",
+    "precache-manifest.e208b187385aa1847cd712ce09150479.js": "/speed-pool-timer/precache-manifest.e208b187385aa1847cd712ce09150479.js",
+    "service-worker.js": "/speed-pool-timer/service-worker.js",
+    "static/css/2.dd71f948.chunk.css.map": "/speed-pool-timer/static/css/2.dd71f948.chunk.css.map",
+    "static/media/semantic.min.css": "/speed-pool-timer/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/end.mp3": "/speed-pool-timer/static/media/end.485c1f6c.mp3",
+    "static/media/tone.mp3": "/speed-pool-timer/static/media/tone.ff3ed4e6.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f75e6216.js",
+    "static/css/2.dd71f948.chunk.css",
+    "static/js/2.76177e1a.chunk.js",
+    "static/js/main.73607af5.chunk.js"
+  ]
+}
